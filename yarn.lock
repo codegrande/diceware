@@ -10,9 +10,10 @@ bootstrap-validator@^0.11.9:
   version "0.11.9"
   resolved "https://registry.yarnpkg.com/bootstrap-validator/-/bootstrap-validator-0.11.9.tgz#fb7058eef53623e78f5aa7967026f98f875a9404"
 
-bootstrap@3.3.6:
-  version "3.3.6"
-  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-3.3.6.tgz#8de8f749dc8a743f2ac5b510d988371e3daa6589"
+bootstrap@4.0.0:
+  version "4.0.0"
+  resolved "https://registry.yarnpkg.com/bootstrap/-/bootstrap-4.0.0.tgz#ceb03842c145fcc1b9b4e15da2a05656ba68469a"
+  integrity sha512-gulJE5dGFo6Q61V/whS6VM4WIyrlydXfCgkE+Gxe5hjrJ8rXLLZlALq7zq2RPhOc45PSwQpJkrTnc2KgD6cvmA==
 
 clipboard@^2.0.0:
   version "2.0.0"
